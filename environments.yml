@@ -1,0 +1,14 @@
+name: gee_notebooks
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - earthengine-api
+  - py6s
+  - geemap
+  - scipy
+  - pip
+  - pip:
+    - pandas==1.3.3
+    - parse==1.19.0
