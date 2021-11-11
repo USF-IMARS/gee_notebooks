@@ -1,4 +1,4 @@
-name: gee_notebooks
+name: ee
 channels:
   - conda-forge
 dependencies:
@@ -8,8 +8,8 @@ dependencies:
   - py6s
   - geemap
   - seaborn
-  - pandas
   - scipy
   - pip
   - pip:
+    - pandas~=1.3.3
     - parse==1.19.0
