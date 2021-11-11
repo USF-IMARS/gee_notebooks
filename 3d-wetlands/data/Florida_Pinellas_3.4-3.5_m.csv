@@ -1,0 +1,11 @@
+system:index,area_km2,class,code,county,state,.geo
+0,0.029586461419582367,Cloud,1,Pinellas,Florida,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,0.01398137401008606,Soil,2,Pinellas,Florida,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,0.3662737696490288,Water,3,Pinellas,Florida,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,0.18402508899116515,Dead grass,4,Pinellas,Florida,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,0.02705828266811371,Marsh,5,Pinellas,Florida,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,0.04769169576859474,Scrub,6,Pinellas,Florida,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,1.502116862304926,Grass,7,Pinellas,Florida,"{""type"":""MultiPoint"",""coordinates"":[]}"
+7,1.8262203820755483,Forested upland,8,Pinellas,Florida,"{""type"":""MultiPoint"",""coordinates"":[]}"
+8,1.8751190187928677,Forested wetland,9,Pinellas,Florida,"{""type"":""MultiPoint"",""coordinates"":[]}"
+9,1.447499689854622,Developed,10,Pinellas,Florida,"{""type"":""MultiPoint"",""coordinates"":[]}"
